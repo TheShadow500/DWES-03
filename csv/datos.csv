@@ -1,0 +1,86 @@
+1, 599, "nVidia GTX3080", "Tarjeta Gráfica ultra+ potente", 150, 20, 12, 3, null, null, null
+1, 499, "nVidia GTX2090", "Tarjeta Gráfica ultra potente", 144, 21, 14, 4, null, null, null
+1, 229, "Intel Core i5 13500", "Procesador de nueva generacion", 21, 3, 3, 1, null, null, null
+1, 499, "AMD Ryzen 7 5800X", "Procesador de alto rendimiento", 75, 10, 8, 2, null, null, null
+1, 179, "Corsair Vengeance LPX 16GB", "Memoria RAM DDR4 de 16GB", 35, 13, 7, 1, null, null, null
+1, 129, "Samsung 970 EVO 500GB SSD", "Unidad de estado sólido rápida y confiable", 50, 10, 7, 0.9, null, null, null
+1, 79, "Cooler Master Hyper 212 RGB", "Refrigeración de CPU eficiente y con iluminación RGB", 650, 12, 10, 16, null, null, null
+1, 249, "Asus ROG Strix B550-F Gaming", "Placa base para gaming de alta gama", 1100, 30, 24, 4, null, null, null
+1, 89, "Logitech G Pro X Mechanical Keyboard", "Teclado mecánico para juegos personalizable", 900, 36, 16, 4, null, null, null
+1, 299, "LG UltraGear 27GL83A-B", "Monitor gaming QHD de 27 pulgadas", 5500, 61, 25, 40, null, null, null
+1, 69, "TP-Link Archer C7 AC1750", "Router Wi-Fi de doble banda para alto rendimiento", 350, 22, 15, 3, null, null, null
+1, 199, "EVGA SuperNOVA 750 G5", "Fuente de alimentación modular de 750W", 1800, 18, 15, 8, null, null, null
+1, 119, "NZXT H510i Compact ATX Mid-Tower", "Caja de PC con gestión inteligente de cables", 7000, 42, 21, 45, null, null, null
+1, 349, "Western Digital Blue 2TB HDD", "Disco duro de 2TB para almacenamiento masivo", 600, 26, 14, 4, null, null, null
+1, 129, "HyperX Cloud II Gaming Headset", "Auriculares para juegos con sonido envolvente", 320, 10, 8, 4, null, null, null
+1, 169, "MSI MPG X570 Gaming Edge WiFi", "Placa base para gaming con conectividad WiFi", 1250, 30, 24, 3, null, null, null
+1, 399, "Intel Core i9-10900K", "Procesador de alto rendimiento de 10 núcleos", 125, 10, 8, 2, null, null, null
+1, 99, "Crucial P1 1TB NVMe SSD", "Unidad de estado sólido NVMe de alta velocidad", 40, 8, 6, 0.8, null, null, null
+1, 149, "Razer BlackWidow Elite Keyboard", "Teclado mecánico con interruptores Razer", 950, 45, 20, 4, null, null, null
+1, 269, "ASUS TUF Gaming VG279Q", "Monitor gaming IPS de 27 pulgadas y 144Hz", 6200, 61, 26, 40, null, null, null
+1, 79, "TP-Link Archer T6E AC1300", "Tarjeta de red Wi-Fi para velocidad mejorada", 80, 12, 8, 1, null, null, null
+1, 159, "Corsair RM750x 750W", "Fuente de alimentación totalmente modular", 1600, 16, 15, 8, null, null, null
+1, 89, "Fractal Design Meshify C", "Caja de PC compacta con excelente flujo de aire", 4500, 41, 21, 45, null, null, null
+1, 369, "Gigabyte RTX3060", "Tarjeta Gráfica de rendimiento medio", 120, 18, 11, 2, null, null, null
+1, 319, "AMD Ryzen 5 5600X", "Procesador de excelente relación rendimiento-precio", 45, 8, 6, 2, null, null, null
+1, 179, "Kingston HyperX Fury 8GB", "Memoria RAM DDR4 de alta velocidad", 40, 13, 7, 1, null, null, null
+1, 249, "Crucial MX500 1TB SSD", "Unidad de estado sólido confiable y de gran capacidad", 60, 9, 7, 0.7, null, null, null
+1, 89, "NZXT Kraken X53 RGB", "Refrigeración líquida para CPU con iluminación RGB", 980, 12, 8, 5, null, null, null
+1, 329, "MSI B450 TOMAHAWK MAX", "Placa base AMD con amplias opciones de conectividad", 1150, 30, 24, 4, null, null, null
+1, 149, "Corsair K95 RGB Platinum XT", "Teclado mecánico premium con retroiluminación RGB", 1100, 36, 16, 4, null, null, null
+1, 279, "LG 27GL850-B 27'' Nano IPS", "Monitor gaming QHD con tasa de refresco de 144Hz", 5500, 61, 25, 40, null, null, null
+1, 59, "TP-Link TL-WR841N", "Router Wi-Fi de bajo coste para uso doméstico", 250, 20, 15, 3, null, null, null
+1, 159, "EVGA 600 W1, 80+ WHITE 600W", "Fuente de alimentación básica pero confiable", 1400, 15, 14, 8, null, null, null
+1, 89, "NZXT H510 Compact ATX Mid-Tower", "Caja de PC elegante con gestión de cables fácil", 6000, 42, 21, 45, null, null, null
+1, 429, "Seagate Barracuda 4TB HDD", "Disco duro de gran capacidad para almacenamiento", 720, 26, 15, 4, null, null, null
+1, 119, "SteelSeries Arctis 5", "Auriculares gaming con sonido envolvente", 320, 10, 8, 4, null, null, null
+1, 149, "ASRock B450M PRO4", "Placa base Micro ATX con soporte para Ryzen", 900, 22, 18, 3, null, null, null
+1, 279, "Samsung 970 EVO Plus 1TB NVMe SSD", "Unidad de estado sólido de alto rendimiento", 50, 10, 7, 0.9, null, null, null
+1, 99, "Cooler Master Hyper 212 Black Edition", "Refrigeración de CPU eficiente y elegante", 620, 12, 10, 16, null, null, null
+1, 239, "Gigabyte B550 AORUS ELITE", "Placa base para gaming con PCIe 4.0", 1150, 30, 24, 4, null, null, null
+1, 79, "Redragon K552 KUMARA", "Teclado mecánico compacto y duradero", 900, 36, 16, 4, null, null, null
+1, 309, "Dell S2719DGF 27'' LED QHD", "Monitor gaming con velocidad de respuesta rápida", 5500, 61, 25, 40, null, null, null
+2, 59.95, "Resident Evil 2 Remake", "Remake del juego clásico", 50, null, null, null, "Windows 10", null, null
+2, 89.95, "FIFA 24", "Nueva temporada del campeón", 50, null, null, null, "Windows 10", null, null
+2, 19.95, "RUST", "El clásico juego de supervivencia", 50, null, null, null, "Windows 10", null, null
+2, 9.95, "Don't Starve", "Juego de supervivencia extrema", 50, null, null, null, "Windows 10", null, null
+2, 49.99, "The Witcher 3: Wild Hunt", "Juego de rol de mundo abierto", 40, null, null, null, "Windows 10", null, null
+2, 29.99, "Red Dead Redemption 2", "Aventura en el salvaje oeste", 70, null, null, null, "Windows 10", null, null
+2, 39.95, "Cyberpunk 2077", "RPG de acción futurista", 55, null, null, null, "Windows 10", null, null
+2, 19.99, "Minecraft", "Construcción y aventuras", 30, null, null, null, "Multiplataforma", null, null
+2, 54.95, "Assassin's Creed Valhalla", "Exploración vikinga en Inglaterra", 65, null, null, null, "Windows 10", null, null
+2, 34.99, "Fortnite", "Battle Royale con construcción", 20, null, null, null, "Multiplataforma", null, null
+2, 44.95, "Call of Duty: Warzone", "Batallas épicas en el modo Battle Royale", 60, null, null, null, "Windows 10", null, null
+2, 59.99, "Final Fantasy VII Remake", "Épica aventura de rol", 48, null, null, null, "PS4", null, null
+2, 24.95, "Among Us", "Juego de engaño y traición", 15, null, null, null, "Multiplataforma", null, null
+2, 49.95, "Overwatch", "Shooter de equipos en línea", 40, null, null, null, "Multiplataforma", null, null
+2, 39.99, "FIFA 22", "Simulador de fútbol actualizado", 55, null, null, null, "Multiplataforma", null, null
+2, 29.95, "Pokémon Sword and Shield", "Aventura de captura de Pokémon", 35, null, null, null, "Nintendo Switch", null, null
+2, 59.99, "Genshin Impact", "Mundo abierto de acción y aventuras", 50, null, null, null, "Multiplataforma", null, null
+2, 19.99, "Rocket League", "Fútbol con coches en partidas frenéticas", 25, null, null, null, "Multiplataforma", null, null
+2, 49.95, "Halo Infinite", "Regreso del icónico shooter", 60, null, null, null, "Windows 10", null, null
+2, 34.99, "Animal Crossing: New Horizons", "Vida tranquila en una isla", 30, null, null, null, "Nintendo Switch", null, null
+2, 59.95, "Spider-Man: Miles Morales", "Aventuras superheroicas en Nueva York", 45, null, null, null, "PS5", null, null
+2, 29.99, "Stardew Valley", "Simulador de granja relajante", 25, null, null, null, "Multiplataforma", null, null
+2, 44.95, "Ghost of Tsushima", "Aventura samurái en el Japón feudal", 55, null, null, null, "PS4", null, null
+2, 39.99, "League of Legends", "Juego estratégico en línea", 30, null, null, null, "Multiplataforma", null, null
+2, 49.99, "The Last of Us Part II", "Aventura épica en un mundo postapocalíptico", 60, null, null, null, "PS4", null, null
+2, 39.95, "Assassin's Creed Odyssey", "Explora la antigua Grecia en esta epopeya", 70, null, null, null, "Windows 10", null, null
+2, 19.99, "Hollow Knight", "Aventuras en un mundo de insectos", 30, null, null, null, "Multiplataforma", null, null
+2, 34.99, "God of War", "Viaja con Kratos en una odisea mitológica", 50, null, null, null, "PS4", null, null
+2, 44.95, "The Legend of Zelda: Breath of the Wild", "Aventuras en el reino de Hyrule", 55, null, null, null, "Nintendo Switch", null, null
+2, 24.95, "Celeste", "Plataformas desafiantes con historia emotiva", 20, null, null, null, "Multiplataforma", null, null
+2, 49.95, "Sekiro: Shadows Die Twice", "Desafío samurái en el Japón feudal", 60, null, null, null, "Windows 10", null, null
+2, 29.95, "Undertale", "RPG indie con decisiones significativas", 25, null, null, null, "Multiplataforma", null, null
+2, 49.99, "Monster Hunter: World", "Caza monstruos en un vasto mundo", 70, null, null, null, "Windows 10", null, null
+2, 59.95, "Resident Evil 3 Remake", "Revive el horror en Raccoon City", 50, null, null, null, "Windows 10", null, null
+2, 19.99, "Super Mario Odyssey", "Aventuras para salvar a la princesa Peach", 30, null, null, null, "Nintendo Switch", null, null
+2, 44.95, "Horizon Zero Dawn", "Explora un mundo habitado por máquinas", 65, null, null, null, "PS4", null, null
+3, 5.99, "Streaming Básico Mensual", "Streaming básico con anuncios", null, null, null, null, null, 1, 1
+3, 9.99, "Suscripción Básica Mensual", "Acceso básico a contenido exclusivo", null, null, null, null, null, 1, 1
+3, 19.99, "Suscripción Premium Mensual", "Contenido premium y acceso anticipado", null, null, null, null, null, 1, 1
+3, 9.95, "Suscripción 3 meses", "Suscripción de 3 meses", null, null, null, null, null, 3, 1
+3, 49.95, "Suscripción Familiar Trimestral", "Plan familiar con descuentos", null, null, null, null, null, 3, 1
+3, 18.95, "Suscripción 6 meses", "Suscripción de 6 meses", null, null, null, null, null, 6, 1
+3, 34.95, "Suscripción 12 meses", "Suscripción de 1 año", null, null, null, null, null, 12, 0
+3, 79.99, "Suscripción Anual Ultimate", "Acceso completo y beneficios exclusivos", null, null, null, null, null, 12, 0
